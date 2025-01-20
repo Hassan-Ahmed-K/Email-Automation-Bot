@@ -1,6 +1,3 @@
-Here’s a detailed description of your Python project for your GitHub repository:
-
----
 
 # **Email Automation Bot using Rambler Accounts**
 
